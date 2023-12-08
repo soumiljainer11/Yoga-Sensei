@@ -1,7 +1,5 @@
 # Yoga Sensei
 
-<b><a href="http://127.0.0.1:5500/Exercise-And-Yoga-Tracker/index.html#mobile-application">Click here</a> to visit website.</b>
-
 ### With the need to be fit and healthy on the rise today, Yoga Sensei proves to be a valuable solution. 
 
 * Yoga-Sensei classifies various Yoga poses and not just static pictures but also real time yoga poses performed in front of the camera. 
